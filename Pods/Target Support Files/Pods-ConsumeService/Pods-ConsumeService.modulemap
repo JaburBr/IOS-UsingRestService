@@ -1,0 +1,6 @@
+framework module Pods_ConsumeService {
+  umbrella header "Pods-ConsumeService-umbrella.h"
+
+  export *
+  module * { export * }
+}
